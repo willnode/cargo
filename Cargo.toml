@@ -302,3 +302,6 @@ http-transport-reqwest = ["gix/blocking-http-transport-reqwest"]
 
 [lints]
 workspace = true
+
+[patch.crates-io]
+libc = { git = "https://github.com/willnode/libc", branch = "linux-0.2.186" }
