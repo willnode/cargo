@@ -3095,7 +3095,7 @@ checksum = "09edd9e8b54e49e587e4f6295a7d29c3ea94d469cb40ab8ca70b288248a81db2"
 [[package]]
 name = "libc"
 version = "0.2.186"
-source = "git+https://github.com/willnode/libc?branch=linux-0.2.186#cce5bc09c7a5f5287d9d36865c000316ffb4686e"
+source = "git+https://github.com/willnode/libc?branch=linux-0.2.186#2cfcb8a822be3965aeca2352ddb0410b6a854b4e"
 
 [[package]]
 name = "libgit2-sys"
